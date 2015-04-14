@@ -1,11 +1,19 @@
-this is interesting..
-yes, yes bruh. it is.
-well, i would like to make this fun.
-how so?
-lets play a game.
-hm? what game?
-rock paper and sissors.
-ok! :)
-rock
-paper
-0-1
+<DOCTYPE! html>
+<html>
+<title> Wassup? </title>
+<head>
+<h1><strong> Welcome to my page!! </h1></strong>
+</head>
+<body>
+<p><center> hzsdfls,jhfsdkljfshfkjhdflkjshdfljkdfskghjfhdkdhfskjshndmhvdkfsk </p></center>
+<br>
+<br>
+<p><left>sdfkjklsjsbv;lkfdj;lkfjl;ksdja;kosdlfj </p></left>
+<br>
+<br>
+<p><right>xlcsujlskzdfhlksjfhdkjhklsdfhksdjfhaj </p></right>
+<br>
+<br>
+<p><h1><strong><center> BRUH CHILL. </p></h1></strong></center>
+</body>
+</html>
